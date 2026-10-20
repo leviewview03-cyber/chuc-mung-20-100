@@ -355,6 +355,7 @@ Gửi chút tình cảm của tui nhân ngày 20/10 đến Quỳnh, mong Quỳnh
             document.getElementById('modalSuccess').classList.remove('flex');
         }
     </script>
+    </audio>
     <audio id="bgMusic" loop preload="auto">
     <source src="https://www.youtube.com/watch?v=heMYSOZoT3c&list=RDheMYSOZoT3c&start_radio=1" type="audio/mpeg">
 </audio>
